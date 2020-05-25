@@ -7,6 +7,7 @@ import 'vant/lib/index.css'
 import 'amfe-flexible'
 
 import './vant.config'
+import './permission'
 
 Vue.config.productionTip = false
 
