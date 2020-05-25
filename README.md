@@ -1,4 +1,4 @@
-# rem-test
+# 一个vant和px2rem移动端项目
 
 ## Project setup
 ```
